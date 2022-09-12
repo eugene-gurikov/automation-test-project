@@ -2,7 +2,7 @@
 
 ### Requirements:
 - Python v 3.10
-- Google Chrome v 105
+- Google Chrome latest
 
 ## Installations:
 under project directory install:
