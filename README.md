@@ -15,7 +15,7 @@ check seleniumbase version with:
 #### Chromedriver (latest)
 > sbase install chromedriver latest
 
-#### Install additional packages
+#### Additional packages
 > pip install pytest-depends pytest-order requests
 
 ## Run tests with pytest
